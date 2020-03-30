@@ -1,9 +1,7 @@
 # Easy Setup (Hugo + Netlify + Forestry)
-Build your website with Parsa hugo theme by following this easy steps (No Coding Required)
+Go Live with by following this easy steps (No Coding Required)
 
 <a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
-
-In this tutorial we will show you to make your website live without buying any hosting and touching a single line of code. We made this tutorial based on [meghna hugo](https://github.com/themefisher/meghna-hugo) but you can setup everithing like this.
 
 ### What you need !!
 
@@ -14,7 +12,7 @@ In this tutorial we will show you to make your website live without buying any h
 
 ### Step 1 : Fork or Clone repository
 
-First we will fork this [parsa hugo](https://github.com/themefisher/parsa-hugo) template.
+First we will fork this [CombatCovid19KE](https://github.com/mukira/CombatCovid19KE) template.
 
 ### Step 2 : Add your repository in Forestry
 
@@ -22,9 +20,9 @@ Go to your [forestry](https://bit.ly/forestry-account)  account and click on `im
 
 ### Step 3 : Setup and host website with Netlify
 
-Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `parsa hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
+Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `CombatCovid19KE` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
 
-> If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/parsa-hugo/issues)
+> If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/CombatCovid19KE/issues)
 
 
 ## Table of Contents
