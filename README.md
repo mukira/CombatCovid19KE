@@ -27,12 +27,10 @@ Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Installation](#installation)
 - [Reporting Issues](#reporting-issues)
 - [Technical Support or Questions](#technical-support-or-questions)
 - [Licensing](#licensing)
-- [More Hugo Themes](https://themefisher.com/hugo-themes/)
 
 
 
