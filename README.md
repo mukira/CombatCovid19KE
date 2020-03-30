@@ -12,7 +12,7 @@ Go Live by following this easy steps (No Coding Required)
 
 ### Step 1 : Fork or Clone repository
 
-First we will fork this [CombatCovid19KE](https://github.com/mukira/CombatCovid19KE) template.
+First fork this [CombatCovid19KE](https://github.com/mukira/CombatCovid19KE) template.
 
 ### Step 2 : Add your repository in Forestry
 
