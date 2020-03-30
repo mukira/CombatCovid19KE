@@ -3,12 +3,10 @@ title: Replication Of Useful Covid-19 Related Equipment
 date: 2020-03-30T08:46:10+00:00
 description: This is meta description
 type: featured
-image: "/images/bag-support-plates.jpg"
+image: "/images/post-3.jpg"
 categories:
 - Nature
-tags:
-- Fashion
-- Nature
+tags: []
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
