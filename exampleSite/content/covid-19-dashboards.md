@@ -5,7 +5,7 @@ description = "This is meta description"
 draft = true
 image = "/images/post-5.jpg"
 tags = ["Philosophy", "Photos"]
-title = "Covid 19 Dashboards"
+title = "Covid 19 Dashboards2"
 type = "featured"
 
 +++
