@@ -4,8 +4,7 @@ date: 2020-03-30T08:46:10+00:00
 description: This is meta description
 type: featured
 image: "/images/post-3.jpg"
-categories:
-- Nature
+categories: []
 tags: []
 
 ---
