@@ -1,6 +1,6 @@
 ---
-title: Organize Your Life With 10er Simple rule
-date: 2019-05-14T08:46:10.000+00:00
+title: Replication Of Useful Covid-19 Related Equipment
+date: 2020-03-30T08:46:10+00:00
 description: This is meta description
 type: featured
 image: images/featured-post/post-5.jpg
